@@ -11,6 +11,7 @@ public class ForkTester
 		// Commit that back to GitHub.
 		// Update your local school repo and show me.
 		System.out.println("I edited this at school");
+		System.out.println("I edited this at home");
 		}
 
 	}
